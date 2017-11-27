@@ -487,7 +487,7 @@
 
             //$('div.default-dom div.bar div.list-tools').append($dropdownbutton);
             //$('div.irhW9pZ div.yqgR747 div.QDDOQB').append($dropdownbutton);
-            $('div.'+wordMap['default-dom']+' div.'+wordMap['bar']+' div.'+wordMap['list-tools']).append($dropdownbutton);
+            $('div.'+wordMap['list-tools']).append($dropdownbutton);
         }
 
         //暂时没用
