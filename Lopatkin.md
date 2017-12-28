@@ -1,3 +1,4 @@
+- 2017.12.27.2300 [Microsoft Windows 10 1709 Pro 16299.125 rs3 x86-x64 RU-RU ZERO](http://emtrek.org/viewtopic.php?t=45350) [2.99 GB](http://emtrek.org/download.php?id=46181)
 - 2017.12.23.0143 [Microsoft Windows 10 Pro 17063.1000 rs4 Prerelease x86-x64 RU-RU LIM](http://emtrek.org/viewtopic.php?t=45319) [3.34 GB](http://emtrek.org/download.php?id=46151)
 - 2017.12.23.0142 [Microsoft Windows 10 1709 Pro 16299.125 rs3 x86-x64 RU-RU LIM](http://emtrek.org/viewtopic.php?t=45318) [3.22 GB](http://emtrek.org/download.php?id=46150)
 - 2017.12.21.2013 [Microsoft Windows 10 Pro 17063.1000 rs4 Prerelease x86-x64 RU-RU FEST](http://emtrek.org/viewtopic.php?t=45304) [4.12 GB](http://emtrek.org/download.php?id=46135)
